@@ -26,7 +26,7 @@ export default function Clock() {
         return () => {
             clearInterval(interval);
         };
-    }, [counter,active]);
+    }, [counter,active,speed]);
 
     let getRandomColor = () => {
         var letters = '0123456789ABCDEF';
