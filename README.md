@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Spinning Wheel
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This small project aims to demonstrate use of useState and useEffect hooks in a simple and fun way.
 
 ## Available Scripts
 
